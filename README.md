@@ -1,6 +1,6 @@
 # Samuel-DSA-Project-Documentation-
 
-Welcome to my Data Analysis Portfolio! 🚀
+Welcome to my Data Analysis Portfolio! 
 This is a collection of data analysis projects using Excel, SQL, and Power BI while taking my data analysis classes with RCCG incubator hub
 This contains a collection of projects I have worked on using **Excel, SQL, and Power BI**. Each project focuses on cleaning, analyzing, and visualizing data to provide actionable insights.
 
